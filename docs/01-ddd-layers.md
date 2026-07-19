@@ -1,3 +1,8 @@
+---
+layout: default
+title: 01 - DDD 四层架构说明
+---
+
 # 01 - DDD 四层架构说明
 
 ## 核心思想
