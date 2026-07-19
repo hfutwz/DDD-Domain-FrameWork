@@ -1,0 +1,10 @@
+title: DDD Domain Framework
+description: JDK 21 + Spring Boot 3 + Spring Data JPA 的 DDD 四层架构学习项目
+baseurl: "/DDD-Domain-FrameWork"
+url: "https://hfutwz.github.io"
+theme: jekyll-theme-cayman
+lang: zh-CN
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
